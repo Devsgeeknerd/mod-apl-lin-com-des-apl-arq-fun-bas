@@ -3,8 +3,8 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Aplicações Linha de Comando e Modo Texto.](https://github.com/Devsgeeknerd/cla-apl-lin-com-mod-tex-apl-lin-com-des-apl-arq-fun-bas) &#128679;
-* [ ] [Aplicações Desktop.](https://github.com/Devsgeeknerd/cla-apl-des-apl-lin-com-des-apl-arq-fun-bas) &#128679;
+* [x] [Aplicações Linha de Comando e Modo Texto.](https://github.com/Devsgeeknerd/cla-apl-lin-com-mod-tex-apl-lin-com-des-apl-arq-fun-bas)
+* [x] [Aplicações Desktop.](https://github.com/Devsgeeknerd/cla-apl-des-apl-lin-com-des-apl-arq-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
